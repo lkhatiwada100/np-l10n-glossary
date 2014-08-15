@@ -1,2 +1,2 @@
-password: छिर्नेशब्द
-lets rock the party:
+password: पासवर्ड
+lets rock the party:जमघटलाई धमाकेदार बनाऔँ
